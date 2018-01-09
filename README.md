@@ -1,4 +1,4 @@
-# sensr_filters
+# sensor_filters
 ROS package implementing different basic filter algorithms for filtering sensor data.
 
 The package currently contains the following algorithms:
